@@ -1,0 +1,7 @@
+.layout {
+    display: flex;
+    height: 80vh;
+    gap: 2rem;
+    flex-wrap: wrap;
+}
+
